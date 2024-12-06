@@ -1,0 +1,20 @@
+.div{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(157, 201, 252);
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 20%;
+    box-shadow: 3px 4px 5px 6px  #c4c1c1;
+    border-radius: 20px ;
+ 
+}
+.btn{
+    background-color: rgb(25, 103, 248);
+    width: 90px;
+    height: 20px;
+    color: aliceblue;
+}
+#email{
+    margin-top: 10px;
+}
